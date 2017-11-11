@@ -1,0 +1,6 @@
+*.ini
+*.db
+*.dll
+*.exe
+*.bak
+key.txt
